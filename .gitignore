@@ -196,3 +196,5 @@ coverage/
 package-lock.json # if you prefer yarn.lock or pnpm-lock.yaml
 yarn.lock # if you prefer package-lock.json or pnpm-lock.yaml
 pnpm-lock.yaml # if you prefer package-lock.json or yarn.lock
+
+puter.md
